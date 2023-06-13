@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/8Pc1dj5WAVTXx9Kp7" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=araham12611" alt="araham12611" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abraham12611" alt="araham12611" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
