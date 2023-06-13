@@ -1,10 +1,10 @@
-![MasterHead](https://images.app.goo.gl/ifjXcVGRwmvAj9q96)
+![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80)
 
 <h1 align="center">Hi 👋, I'm Abraham Dahunsi</h1>
 
 <h3 align="center">A passionate software developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/8Pc1dj5WAVTXx9Kp7" >
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=6c09b952e7153caa618d183df0d0a42c9e217f6e6ed44b01&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abraham12611" alt="araham12611" /></a> </p>
 
