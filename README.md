@@ -6,7 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp?cid=6c09b952e7153caa618d183df0d0a42c9e217f6e6ed44b01&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abraham12611" alt="araham12611" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Continuous Integration for Mobile Development and Jenkins<br>👯 I’m looking to collaborate on DeviceFarmer<br>💬 Ask me about Linux on SBCs, Docker, DeviceFarmer
