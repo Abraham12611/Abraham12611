@@ -11,7 +11,7 @@
 - 🔭 Currently working on **Continuous Integration for Mobile Development** and **Jenkins**
 - 👯 Looking to collaborate on **DeviceFarmer**
 - 💬 Ask me about **Linux on SBCs, Docker, and DeviceFarmer**
-- 📚 I write regularly on technical topics for platforms like **Vultr**, **FreeCodeCamp**, and others.
+- 📚 I write regularly on technical topics for platforms like **Vultr**, **FreeCodeCamp**, **InPlainEnglish**, **Collabnix**,and others.
 
 ---
 
@@ -37,6 +37,17 @@ Here are some of my recent technical writings:
 - [Set Up Argo Workflows on Kubernetes](https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/)  
 - [Trace Node.js Applications with OpenTelemetry](https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/)  
 - [Secure a Web Server with Continuous Integration Using Nginx and CircleCI](https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/)
+
+### **Collabnix**
+- [Docker vs Podman: Why Docker is still the developers choice](https://collabnix.com/docker-vs-podman-why-docker-is-still-the-developers-choice/)
+- [How to Set Environment Variables in Docker Compose](https://collabnix.com/how-to-set-environment-variables-in-docker-compose/)
+- [How to Pre-seed a Database Container for Development Environments](https://collabnix.com/how-to-pre-seed-a-database-container-for-development-environments/)
+- [What is Compose Bridge and what problem does it solve?](https://collabnix.com/what-is-compose-bridge-and-what-problem-does-it-solve/)
+
+### **InPlainEnglish**
+- [Introduction to NGINX Access Logs and Error Logs](https://plainenglish.io/community/introduction-to-nginx-access-logs-and-error-logs-507489)
+- [Securing Nodejs APIs with Json Web Tokens (JWT)](https://plainenglish.io/community/securing-node-js-apis-with-json-web-tokens-jwt-88ab51)
+
 
 ---
 
